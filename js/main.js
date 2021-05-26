@@ -11,4 +11,4 @@ let arr = ["first", "second"];
 
 let un = BigInt(Number.MAX_SAFE_INTEGER);
 
-console.log(un + 200n);
+console.log(un);
